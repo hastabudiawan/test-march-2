@@ -1,4 +1,4 @@
-public class Main {
+public class Tes {
     public int addNumber(int a, int b){
         return a + b;
     }
